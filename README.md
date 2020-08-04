@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/GemmaStiles/GemmaStiles/blob/master/octocat.jpg" alt="Octocat" width=500px/>
 
-### Howdy! 👋
+# Howdy! 👋
 
 ## 📖 About me
 - I'm a front-end developer who is passionate about creating and maintaining beautiful, responsive, performant and inclusive design systems
