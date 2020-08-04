@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/GemmaStiles/GemmaStiles/blob/master/octocat.jpg" alt="Octocat" width=500px/>
+
 ### Howdy! 👋
 
 ## 📖 About me
