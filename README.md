@@ -2,11 +2,11 @@
 
 ## 📖 About me
 
-- I'm a front-end developer who is passionate about creating and maintaining beautiful, responsive, performant and inclusive design systems
+- I love all things front-end and I am passionate about creating and maintaining beautiful, responsive, performant and inclusive design systems
 - I enjoy building things that enhance the overall experience and delight users and I believe the user should be put at the core of the digital experience
-- I'm an advocate for accessibility and I want to help create a more inclusive experience for everyone on the web
-- I've been working remotely full-time for nearly two years and am constantly looking to improve the ways in which we collaborate with each other
-- I am currently working as a Software Engineer at [Learnosity](https://learnosity.com/) who specialise in delivering assessment tools to the world's leading learning platforms and publishers
+- I'm a big advocate for accessibility and I want to help create a more inclusive experience for everyone on the web
+- I've been working remotely full-time for more than two years and I am constantly looking to improve the ways in which we collaborate with each other
+- I'm currently working as a Software Developer at [Ray White](https://www.raywhite.com/)
 - I'm on the leadership team for [SydCSS](https://www.meetup.com/en-AU/SydCSS/), Sydney’s only community / meetup group dedicated to all things CSS
 
 ## 🌏 Find me on the web
