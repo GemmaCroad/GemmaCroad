@@ -12,9 +12,9 @@
 
 ## 🌏 Find me on the web
 
-- Tinkering and building things on [Codepen](https://codepen.io/GemmaStiles)
-- Getting involved with the community on [Twitter](https://twitter.com/Gemma_Stiles)
-- Networking on [LinkedIn](https://www.linkedin.com/in/gemmastiles/)
-- Sharing my learnings on [Medium](https://medium.com/@gemma.stiles)
+- Tinkering and building things on [Codepen](https://codepen.io/GemmaCroad)
+- Getting involved with the community on [Twitter](https://twitter.com/Gemma_Croad)
+- Networking on [LinkedIn](https://www.linkedin.com/in/gemmacroad/)
+- Sharing my learnings on [Medium](https://medium.com/@gemma.croad)
 
 Feel free to connect and start a conversation 😊
