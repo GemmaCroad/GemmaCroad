@@ -8,7 +8,7 @@
 - I'm a big advocate for accessibility and I want to help create a better experience for everyone on the web
 - I've been working remotely for nearly five years now and I am constantly looking to improve the ways in which we collaborate with each other
 - I'm on the leadership team for [SydCSS](https://www.meetup.com/en-AU/SydCSS/), Sydney’s only community / meetup group dedicated to all things CSS
-- - I'm currently looking for a new team to build beautiful, responsive, performant, and meaningful products alongside
+- I'm currently looking for a new team to build beautiful, responsive, performant, and meaningful products alongside
 
 ## 🌏 Find me on the web
 
